@@ -1,0 +1,392 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+.main-container {
+    padding-left: 120px;
+    color: #FFF;
+    padding-bottom: 100px;
+    background: linear-gradient(176deg, #09032E 42.3%, #1608B2 84.62%);
+}
+       /*nav-box*/
+.nav {
+  
+    display: flex;
+    padding-top: 30px;
+}
+.logo {
+    padding-top: 5px;
+    margin-left: -5rem;
+    
+}
+.nav-tittle {
+    font-family: Poppins;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 153.5%;
+ }
+
+.option {
+    display: flex;
+    font-family: Poppins;
+    font-size: 16px;
+   margin-left: 39rem;
+   margin-top: 12px;
+   gap: 88px;
+}
+.contact {
+    border-radius: 6px;
+    background: #D80027;
+    width: 131.771px;
+    height: 35.343px;
+   padding-top: 7px;
+   font-size: 13px;
+   margin-top: -6px;
+    text-align: center;
+}
+        /*first-container*/
+.first-container {
+    margin-top: 106px;  
+    font-family: Poppins;
+    font-size: 16px;
+    margin-left: -10rem;
+}
+.first-content {
+    text-align: center;
+   
+}
+.new {
+    color: #E47500;
+}
+.first-tittle {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 600;
+}
+.sea-cont {
+   
+    width: 400px;
+    height: 49px;
+    border-radius: 10px;
+    margin-left: -330px;
+    margin-top: 40px;
+}
+.search-img {
+    margin-bottom: -2px;
+     margin-left: -370px;
+ }
+       /*second-container*/
+.second-container {
+    display: flex;
+    gap: 100px;
+    margin-top: 80px;
+    
+}
+.under-line {
+    background: #A5A5A5;
+    width: 550px;
+    height: 1px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+.se-co-para-tittle {
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+width: 575.141px;
+}
+.se-content {
+width: 530px;
+font-size: 17px;
+font-family: Poppins;
+}
+.john-one {
+width: 164.044px;
+height: 48px;
+text-align: center;
+padding-top: 12px;
+background: #2351F5;
+font-family: Poppins;
+font-size:16px;
+font-weight: 400;
+}
+.time {
+font-size: 16px;
+margin-top: 15px;
+margin-left: 10px;
+}
+.John-smashone {
+display: flex;
+gap: 10px;
+}
+    /*second container*/
+.sec-contwo-one {
+display: flex;
+gap: 40px;
+}
+.onediv-img {
+    border-radius: 20px;
+}
+.one-john {
+width: 137.974px;
+height: 39.896px;
+text-align: center;
+padding-top: 10px; 
+background: #FF8484;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+}  
+.three-john {
+width: 137.974px;
+height: 39.896px;
+text-align: center;
+padding-top: 10px; 
+background: #FF7C32;
+font-family: Poppins;
+font-size:14px;
+font-weight: 400;
+}  
+
+.five-john {
+width: 137.974px;
+height: 39.896px;
+text-align: center;
+padding-top: 10px; 
+background: #23A54F;
+font-family: Poppins;
+font-size:14px;
+font-weight: 400;
+} 
+.seven-john {
+width: 137.974px;
+height: 39.896px;
+text-align: center;
+padding-top: 10px; 
+background: #9921C3;
+font-family: Poppins;
+font-size:14px;
+font-weight: 400;
+} 
+.two-john {
+width: 137.974px;
+height: 39.896px;
+text-align: center;
+padding-top: 10px; 
+background: #2351F5;
+font-family: Poppins;
+font-size:14px;
+font-weight: 400;
+}
+.secdiv-img {
+    border-radius: 20px;
+}
+.time-one {
+    font-size: 14px;
+     margin-top: 12px;
+     margin-left: 10px;
+ }
+
+.sec-John-smashone {
+    margin-top: 7px;
+    margin-bottom: -13px;
+    display: flex;
+    gap: 10px;
+}
+.sec-john-para {
+    width: 392px;
+    font-family: Poppins;
+font-size: 23px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+  
+.sec-contwo-two {
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+/*third container*/
+.third-container {
+    margin-top: 50px;
+    width: 545px;
+height: 57px;
+}
+.third-cont-tittle {
+    font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+}
+.third-cont-para {
+    width: 636px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+/*fourth container*/
+.fourth-container {
+    margin-top: 150px;
+   display: flex;
+   border-radius: 15px;
+background: #D6C5BB;
+padding: 50px;
+width: 1290px;
+height: 189px;
+gap: 160px;
+}
+.fourth-tittle {
+    width: 303px;
+color: #000;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 550;
+line-height: normal;
+}
+.fourth-para {
+    width: 636px;
+    color: #000;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.fourth-input {
+    border-radius: 8px;
+    color: white;
+background: #000;
+width: 385.679px;
+height: 48px;
+}
+.Continue {
+    border-radius: 8px;
+background: #D80027;
+color: #000;
+padding-top: 9px;
+text-align: center;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 104.996px;
+height: 37px;
+margin-top: 5px;
+margin-left: -115px;
+}
+.input-four {
+    margin-top: 35px;
+    display: flex;
+}
+/*footer container*/
+ .footer-container {
+    display: flex;
+    margin-top: 100px;
+    gap: 130px;
+    margin-bottom: 100px;
+    padding-left: 120px;
+ }
+ .fir-ft-tit {
+    color: #000;
+
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 153.5%;
+ }
+ .fir-ft-para {
+    color: #000;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+width: 372px;
+height: 58px;
+}
+.fir-ft-ft {
+    color: #000;
+    width: 196px;
+    height: 23px;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.sec-ft-tit {
+    color: #000;
+
+font-family: Poppins;
+font-size: 19px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.sec-ft-para {
+    color: #000;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 186.3%;
+}
+.thi-ft-tit {
+    color: #000;
+
+font-family: Poppins;
+font-size: 19px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.thi-ft-para {
+    color: #000;
+    width: 282px;
+    height: 76px;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.thi-ft-num{
+    color: #000;
+    width: 141px;
+    height: 28px;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+ .four-foot {
+    display: flex;
+    gap: 10px;
+    margin-top: 130px;
+ }
+.foot-logo {
+    width: 34px;
+    height: 34px;
+background-color: #000;
+border-radius: 20px;
+padding: 5px;
+
+}
